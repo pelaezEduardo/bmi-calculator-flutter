@@ -16,3 +16,26 @@ const kInactiveCard = Color(0xFF111328);
 const kBottomContainerHeight = 80.0;
 
 enum Gender { male, female }
+
+const kLargerBottomText = TextStyle(
+  fontSize: 25.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kTitle = TextStyle(
+  fontSize: 50.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kResultText = TextStyle(
+  color: Color(0xFF24D876),
+);
+
+const kBMIStyle = TextStyle(
+  fontSize: 100.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kBodyText = TextStyle(
+  fontSize: 22.0,
+);
